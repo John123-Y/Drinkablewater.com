@@ -24,6 +24,11 @@
 .ta{
     border:2px solid brown;
 }
+.yo{
+    background:black;
+    padding:5px;
+    border-radius:5px;
+}
 .ja{
     font-family:'Montserrat', sans-serif;
     font-size:24px;
@@ -35,8 +40,8 @@
 }
 .img{
     display:block;
-    width:230px;
-    height:230px;
+    width:235px;
+    height:235px;
     margin-right:auto;
     margin-left:auto;
     box-shadow::rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 50%;
