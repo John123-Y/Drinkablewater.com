@@ -11,7 +11,7 @@
     text-align:center;
     text-transform:uppercase;
     text-decoration:underline;
-    background-color:goldenrod;
+    background-color:#0568c1;
     border-radius:5px;
     border:2px groove black;
 }
@@ -22,7 +22,7 @@
     font-weight:bolder;
 }
 .ta{
-    border:2px solid brown;
+    border:2px solid #0568c1;
 }
 .yo{
     background:black;
@@ -41,6 +41,7 @@
 .img{
     display:block;
     width:235px;
+    border:1px groove #0568c1;
     height:235px;
     margin-right:auto;
     margin-left:auto;
@@ -50,6 +51,7 @@
 }
 .img:hover{
     display:block;
+    border:1px groove #0568c1;
     width:250px;
     height:250px;
     box-shadow:rgba(0,0,0,0.7) 60%, rgba(0,0,0,0.7) 60%;
@@ -66,9 +68,9 @@
     font-style:italic;
     text-transform:uppercase;
     font-weight:bold;
-    border:2px groove:aqua;
+    border:2px groove black;
     border-radius:5px;
-    background-color:goldenrod;
+    background-color:#0568c1;
     border-radius:4px;
 }
 .ma{
@@ -102,12 +104,12 @@
     font-size:26px;
     color:black;
     text-transform:uppercase;
-    background:goldenrod;
+    background:#0568c1;
     text-align:center;
-    opacity:0.4;
+    opacity:0.9;
     padding:5px;
     border-radius:5px;
-    border:2px groove brown;
+    border:2px groove black;
     box-shadow:rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 50%;
     transition-duration:2s;
     cursor:pointer;
@@ -116,15 +118,15 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size:30px;
     color:white;
-    background:orange;
+    background:black;
     border-radius:5px;
     opacity:0.5;
     padding:5px;
-    border:2px groove brown;
+    border:2px groove #0568c1;
     box-shadow:rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 60%;
 }
 .footer{
-    background-color:black;
+    background-color:#0568c1;
 }
 .footercontainer{
     width:100%;
@@ -144,7 +146,6 @@
 .socialicons i{
     font-size:200;
     color:black;
-    opacity:0.9;
 }
 .socialicons a:hover{
     background-color:#111;
@@ -163,7 +164,7 @@
     list-style-type:none;
 }
 .footernav ul li a{
-    color:olive;
+    color:black;
     margin:20px;
     text-decoration:none;
     font-size:1.3em;
